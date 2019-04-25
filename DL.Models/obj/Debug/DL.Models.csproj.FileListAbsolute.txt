@@ -1,0 +1,6 @@
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.Models\bin\Debug\DL.Models.dll
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.Models\bin\Debug\DL.Models.pdb
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.Models\obj\Debug\DL.Models.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.Models\obj\Debug\DL.Models.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.Models\obj\Debug\DL.Models.dll
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.Models\obj\Debug\DL.Models.pdb

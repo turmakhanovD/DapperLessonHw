@@ -1,0 +1,9 @@
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess.Abstract\bin\Debug\DL.DataAccess.Abstract.dll
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess.Abstract\bin\Debug\DL.DataAccess.Abstract.pdb
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess.Abstract\bin\Debug\DL.Models.dll
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess.Abstract\bin\Debug\DL.Models.pdb
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.csproj.CopyComplete
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.dll
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.pdb

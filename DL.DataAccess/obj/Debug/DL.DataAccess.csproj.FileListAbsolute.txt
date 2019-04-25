@@ -1,0 +1,15 @@
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\bin\Debug\Database.mdf
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\bin\Debug\Database_log.ldf
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\bin\Debug\DL.DataAccess.dll
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\bin\Debug\DL.DataAccess.pdb
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\bin\Debug\Dapper.dll
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\bin\Debug\DL.DataAccess.Abstract.dll
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\bin\Debug\DL.Models.dll
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\bin\Debug\DL.DataAccess.Abstract.pdb
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\bin\Debug\DL.Models.pdb
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\bin\Debug\Dapper.xml
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\obj\Debug\DL.DataAccess.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\obj\Debug\DL.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\obj\Debug\DL.DataAccess.csproj.CopyComplete
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\obj\Debug\DL.DataAccess.dll
+C:\Users\ТурмаханД\source\repos\DL.ConsoleApp\DL.DataAccess\obj\Debug\DL.DataAccess.pdb
